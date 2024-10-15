@@ -23,3 +23,10 @@
 در جلسه سوم با استفاده از **Serial** نمودار سینوس و کسینوس را نمایش دادیم که کد آن در [این فایل](https://github.com/Alidl81/MICRO/blob/main/3/sin_cos_plot) قابل مشاهده است.
 
 ![ezgif-7-cebf587327](https://github.com/user-attachments/assets/27e30db3-1d44-47a7-9ddd-08ea8488f1fa)
+
+
+**Dancong Lights:**
+
+همچنین در جلسه سوم مداری تحت عنوان رقص چراغ ها بستیم که با استفاده از سه دکمه (**Push Button**) برنامه های مختلفی رو به چراغ ها دادیم ( با استفاده از آرایه ها ( به صورت ماتریسی ) ) که کد آن در [این فایل](https://github.com/Alidl81/MICRO/blob/main/3/Dancing_Light.ino) قابل مشاهده است .
+
+![ezgif-7-cebf587327](https://github.com/user-attachments/assets/64825f40-08ee-4fd8-b158-f071fd480715)
