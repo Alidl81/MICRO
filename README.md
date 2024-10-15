@@ -29,4 +29,5 @@
 
 همچنین در جلسه سوم مداری تحت عنوان رقص چراغ ها بستیم که با استفاده از سه دکمه (**Push Button**) برنامه های مختلفی رو به چراغ ها دادیم ( با استفاده از آرایه ها ( به صورت ماتریسی ) ) که کد آن در [این فایل](https://github.com/Alidl81/MICRO/blob/main/3/Dancing_Light.ino) قابل مشاهده است .
 
-![ezgif-7-cebf587327](https://github.com/user-attachments/assets/64825f40-08ee-4fd8-b158-f071fd480715)
+![ezgif-7-cebf587327](https://github.com/user-attachments/assets/12029b2f-6bf3-412e-8985-f605d1020b23)
+
